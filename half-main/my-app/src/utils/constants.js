@@ -1,4 +1,4 @@
-export const API_BASE_URL = "http://localhost:8080";
+export const API_BASE_URL = "https://feedback-backend-5w38.onrender.com";
 
 export const FEEDBACK_STATUS = {
   PENDING: "PENDING",
